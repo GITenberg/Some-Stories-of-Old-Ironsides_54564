@@ -1,11 +1,16 @@
 _repo: Some-Stories-of-Old-Ironsides_54564
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54564-h/images/cover.jpg
 creator:
   author:
     agent_name: Frost, Holloway Halstead
     gutenberg_agent_id: '47929'
     url: http://www.gutenberg.org/2009/agents/47929
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54564#Some-Stories-of-Old-Ironsides
 gutenberg_issued: '2017-04-18'
 gutenberg_type: Text
 identifiers:
